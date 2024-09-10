@@ -29,14 +29,16 @@ Use an SSH client (e.g., PuTTY, Terminal) to connect to the instance using the p
 
 ## Additional Considerations
 Best Practices:
-Use a strong password for the instance.
-Consider using a bastion host for additional security.
-Regularly update the instance's operating system and applications.
+- Use a strong password for the instance.
+- Consider using a bastion host for additional security.
+- Regularly update the instance's operating system and applications.
+
 Advanced Scenarios:
 For more complex scenarios, explore options like VPN connections, AWS Direct Connect, or bastion hosts.
 Monitoring and Logging:
 Implement monitoring and logging to track instance health, network traffic, and security events.
-Demo
+
+## Demo
 [Insert a video or screenshot demonstration of the setup process]
 
 ## Conclusion
