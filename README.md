@@ -43,3 +43,4 @@ Implement monitoring and logging to track instance health, network traffic, and 
 
 ## Conclusion
 By following these steps, you've successfully established remote access to your VPC resources, enabling you to manage and interact with them securely from outside the VPC. Remember to adhere to best practices and continuously review your security configuration to protect your environment.
+For more information visit: https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html 
