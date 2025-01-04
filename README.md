@@ -38,8 +38,7 @@ For more complex scenarios, explore options like VPN connections, AWS Direct Con
 Monitoring and Logging:
 Implement monitoring and logging to track instance health, network traffic, and security events.
 
-## Demo
-[Insert a video or screenshot demonstration of the setup process]
+
 
 ## Conclusion
 By following these steps, you've successfully established remote access to your VPC resources, enabling you to manage and interact with them securely from outside the VPC. Remember to adhere to best practices and continuously review your security configuration to protect your environment.
